@@ -1,0 +1,438 @@
+MEE2	en-de	challenge_edinburgh-zurich	all	refA	systemA	0.7152008963788437
+MEE2	en-de	challenge_edinburgh-zurich	all	refA	systemB	0.7151840002063397
+MEE2	en-de	challenge_dfki	all	refA	systemA	0.7676350576013853
+MEE2	en-de	challenge_dfki	all	refA	systemB	0.7644908784142684
+MEE2	en-ru	challenge_edinburgh-zurich	all	refA	systemA	0.7572655439234236
+MEE2	en-ru	challenge_edinburgh-zurich	all	refA	systemB	0.7558504857735452
+MEE2	zh-en	challenge_edinburgh-zurich	all	refA	systemA	0.809804937299827
+MEE2	zh-en	challenge_edinburgh-zurich	all	refA	systemB	0.8095236575056212
+MEE2	zh-en	generaltest2022	all	refA	Online-A	
+MEE2	zh-en	generaltest2022	conversation	refA	Online-A	0.6463513488647616
+MEE2	zh-en	generaltest2022	ecommerce	refA	Online-A	0.62205751077804
+MEE2	zh-en	generaltest2022	news	refA	Online-A	0.6918182621436872
+MEE2	zh-en	generaltest2022	social	refA	Online-A	0.6881401963727202
+MEE2	zh-en	generaltest2022	all	refA	NiuTrans	
+MEE2	zh-en	generaltest2022	conversation	refA	NiuTrans	0.6450001905192025
+MEE2	zh-en	generaltest2022	ecommerce	refA	NiuTrans	0.6121462620722987
+MEE2	zh-en	generaltest2022	news	refA	NiuTrans	0.6913647329494916
+MEE2	zh-en	generaltest2022	social	refA	NiuTrans	0.684448113471666
+MEE2	zh-en	generaltest2022	all	refA	comet_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refA	comet_bestmbr	0.6474605740928323
+MEE2	zh-en	generaltest2022	ecommerce	refA	comet_bestmbr	0.62647943675192
+MEE2	zh-en	generaltest2022	news	refA	comet_bestmbr	0.6830532322561683
+MEE2	zh-en	generaltest2022	social	refA	comet_bestmbr	0.6815489542957749
+MEE2	zh-en	generaltest2022	all	refA	QUARTZ_TuneReranking	
+MEE2	zh-en	generaltest2022	conversation	refA	QUARTZ_TuneReranking	0.6091292634769834
+MEE2	zh-en	generaltest2022	ecommerce	refA	QUARTZ_TuneReranking	0.5796804176157776
+MEE2	zh-en	generaltest2022	news	refA	QUARTZ_TuneReranking	0.6576519865514984
+MEE2	zh-en	generaltest2022	social	refA	QUARTZ_TuneReranking	0.6532684653716112
+MEE2	zh-en	generaltest2022	all	refA	JDExploreAcademy	
+MEE2	zh-en	generaltest2022	conversation	refA	JDExploreAcademy	0.6615666136789303
+MEE2	zh-en	generaltest2022	ecommerce	refA	JDExploreAcademy	0.634453626246472
+MEE2	zh-en	generaltest2022	news	refA	JDExploreAcademy	0.7077004017372863
+MEE2	zh-en	generaltest2022	social	refA	JDExploreAcademy	0.738059025485636
+MEE2	zh-en	generaltest2022	all	refA	Online-G	
+MEE2	zh-en	generaltest2022	conversation	refA	Online-G	0.6713523808447308
+MEE2	zh-en	generaltest2022	ecommerce	refA	Online-G	0.6339614038027854
+MEE2	zh-en	generaltest2022	news	refA	Online-G	0.6979080148611354
+MEE2	zh-en	generaltest2022	social	refA	Online-G	0.7013594267951189
+MEE2	zh-en	generaltest2022	all	refA	Lan-Bridge	
+MEE2	zh-en	generaltest2022	conversation	refA	Lan-Bridge	0.6648727960220976
+MEE2	zh-en	generaltest2022	ecommerce	refA	Lan-Bridge	0.637028189311021
+MEE2	zh-en	generaltest2022	news	refA	Lan-Bridge	0.6990950591767681
+MEE2	zh-en	generaltest2022	social	refA	Lan-Bridge	0.7034378788406496
+MEE2	zh-en	generaltest2022	all	refA	DLUT	
+MEE2	zh-en	generaltest2022	conversation	refA	DLUT	0.635720665591106
+MEE2	zh-en	generaltest2022	ecommerce	refA	DLUT	0.6072775331547637
+MEE2	zh-en	generaltest2022	news	refA	DLUT	0.684264175044965
+MEE2	zh-en	generaltest2022	social	refA	DLUT	0.672510876243379
+MEE2	zh-en	generaltest2022	all	refA	Online-B	
+MEE2	zh-en	generaltest2022	conversation	refA	Online-B	0.6577666758283159
+MEE2	zh-en	generaltest2022	ecommerce	refA	Online-B	0.6395304422243009
+MEE2	zh-en	generaltest2022	news	refA	Online-B	0.6976255244626944
+MEE2	zh-en	generaltest2022	social	refA	Online-B	0.7062953796905469
+MEE2	zh-en	generaltest2022	all	refA	bleurt_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refA	bleurt_bestmbr	0.6518427323442196
+MEE2	zh-en	generaltest2022	ecommerce	refA	bleurt_bestmbr	0.6397675090865714
+MEE2	zh-en	generaltest2022	news	refA	bleurt_bestmbr	0.6961368366498942
+MEE2	zh-en	generaltest2022	social	refA	bleurt_bestmbr	0.698212758310324
+MEE2	zh-en	generaltest2022	all	refA	LanguageX	
+MEE2	zh-en	generaltest2022	conversation	refA	LanguageX	0.6714503428012377
+MEE2	zh-en	generaltest2022	ecommerce	refA	LanguageX	0.6384122577518556
+MEE2	zh-en	generaltest2022	news	refA	LanguageX	0.7085241248475073
+MEE2	zh-en	generaltest2022	social	refA	LanguageX	0.7200344162121467
+MEE2	zh-en	generaltest2022	all	refA	Online-Y	
+MEE2	zh-en	generaltest2022	conversation	refA	Online-Y	0.6463001593563924
+MEE2	zh-en	generaltest2022	ecommerce	refA	Online-Y	0.6263613292811735
+MEE2	zh-en	generaltest2022	news	refA	Online-Y	0.6941495316809266
+MEE2	zh-en	generaltest2022	social	refA	Online-Y	0.6863494919889869
+MEE2	zh-en	generaltest2022	all	refA	Online-W	
+MEE2	zh-en	generaltest2022	conversation	refA	Online-W	0.6781706664416106
+MEE2	zh-en	generaltest2022	ecommerce	refA	Online-W	0.6139336469358867
+MEE2	zh-en	generaltest2022	news	refA	Online-W	0.6846346773727241
+MEE2	zh-en	generaltest2022	social	refA	Online-W	0.675051526267692
+MEE2	zh-en	generaltest2022	all	refA	AISP-SJTU	
+MEE2	zh-en	generaltest2022	conversation	refA	AISP-SJTU	0.6560589692972213
+MEE2	zh-en	generaltest2022	ecommerce	refA	AISP-SJTU	0.6291642047417225
+MEE2	zh-en	generaltest2022	news	refA	AISP-SJTU	0.7035238776709245
+MEE2	zh-en	generaltest2022	social	refA	AISP-SJTU	0.713061484612225
+MEE2	zh-en	generaltest2022	all	refA	bleu_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refA	bleu_bestmbr	0.6617910643604761
+MEE2	zh-en	generaltest2022	ecommerce	refA	bleu_bestmbr	0.6501039607924677
+MEE2	zh-en	generaltest2022	news	refA	bleu_bestmbr	0.7017727567606539
+MEE2	zh-en	generaltest2022	social	refA	bleu_bestmbr	0.7095982952722368
+MEE2	zh-en	generaltest2022	all	refA	2B-B4	
+MEE2	zh-en	generaltest2022	conversation	refA	2B-B4	0.6264322767435869
+MEE2	zh-en	generaltest2022	ecommerce	refA	2B-B4	0.5754964681031753
+MEE2	zh-en	generaltest2022	news	refA	2B-B4	0.6645537692365586
+MEE2	zh-en	generaltest2022	social	refA	2B-B4	0.6580945880115695
+MEE2	zh-en	generaltest2022	all	refA	chrf_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refA	chrf_bestmbr	0.6650278637112617
+MEE2	zh-en	generaltest2022	ecommerce	refA	chrf_bestmbr	0.6415464032616452
+MEE2	zh-en	generaltest2022	news	refA	chrf_bestmbr	0.6944390469977829
+MEE2	zh-en	generaltest2022	social	refA	chrf_bestmbr	0.7006817874062944
+MEE2	zh-en	generaltest2022	all	refA	HuaweiTSC	
+MEE2	zh-en	generaltest2022	conversation	refA	HuaweiTSC	0.6924875982958917
+MEE2	zh-en	generaltest2022	ecommerce	refA	HuaweiTSC	0.6241856550501681
+MEE2	zh-en	generaltest2022	news	refA	HuaweiTSC	0.6991977397539105
+MEE2	zh-en	generaltest2022	social	refA	HuaweiTSC	0.6985022676866484
+MEE2	zh-en	generaltest2022	all	refA	refB	
+MEE2	zh-en	generaltest2022	conversation	refA	refB	0.7537559549713782
+MEE2	zh-en	generaltest2022	ecommerce	refA	refB	0.7809912895893747
+MEE2	zh-en	generaltest2022	news	refA	refB	0.7809801755906545
+MEE2	zh-en	generaltest2022	social	refA	refB	0.656875432003145
+MEE2	zh-en	generaltest2022	all	refB	Online-A	
+MEE2	zh-en	generaltest2022	conversation	refB	Online-A	0.6045408982631614
+MEE2	zh-en	generaltest2022	ecommerce	refB	Online-A	0.6021675523153182
+MEE2	zh-en	generaltest2022	news	refB	Online-A	0.666468145005442
+MEE2	zh-en	generaltest2022	social	refB	Online-A	0.6276530386838418
+MEE2	zh-en	generaltest2022	all	refB	NiuTrans	
+MEE2	zh-en	generaltest2022	conversation	refB	NiuTrans	0.6036066467006728
+MEE2	zh-en	generaltest2022	ecommerce	refB	NiuTrans	0.5945004156720578
+MEE2	zh-en	generaltest2022	news	refB	NiuTrans	0.6669529047006286
+MEE2	zh-en	generaltest2022	social	refB	NiuTrans	0.6289024899933519
+MEE2	zh-en	generaltest2022	all	refB	comet_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refB	comet_bestmbr	0.6128897608401654
+MEE2	zh-en	generaltest2022	ecommerce	refB	comet_bestmbr	0.6058304080830053
+MEE2	zh-en	generaltest2022	news	refB	comet_bestmbr	0.6586567425894823
+MEE2	zh-en	generaltest2022	social	refB	comet_bestmbr	0.6277555529934306
+MEE2	zh-en	generaltest2022	all	refB	QUARTZ_TuneReranking	
+MEE2	zh-en	generaltest2022	conversation	refB	QUARTZ_TuneReranking	0.5782560951703387
+MEE2	zh-en	generaltest2022	ecommerce	refB	QUARTZ_TuneReranking	0.559952123425631
+MEE2	zh-en	generaltest2022	news	refB	QUARTZ_TuneReranking	0.6343495731415696
+MEE2	zh-en	generaltest2022	social	refB	QUARTZ_TuneReranking	0.6040366469872144
+MEE2	zh-en	generaltest2022	all	refB	JDExploreAcademy	
+MEE2	zh-en	generaltest2022	conversation	refB	JDExploreAcademy	0.6265835717335617
+MEE2	zh-en	generaltest2022	ecommerce	refB	JDExploreAcademy	0.6172266162450017
+MEE2	zh-en	generaltest2022	news	refB	JDExploreAcademy	0.6790001832696458
+MEE2	zh-en	generaltest2022	social	refB	JDExploreAcademy	0.6454608229074883
+MEE2	zh-en	generaltest2022	all	refB	Online-G	
+MEE2	zh-en	generaltest2022	conversation	refB	Online-G	0.6329737268581038
+MEE2	zh-en	generaltest2022	ecommerce	refB	Online-G	0.6160331178006097
+MEE2	zh-en	generaltest2022	news	refB	Online-G	0.672334991229004
+MEE2	zh-en	generaltest2022	social	refB	Online-G	0.6372203826840596
+MEE2	zh-en	generaltest2022	all	refB	Lan-Bridge	
+MEE2	zh-en	generaltest2022	conversation	refB	Lan-Bridge	0.6330351191248875
+MEE2	zh-en	generaltest2022	ecommerce	refB	Lan-Bridge	0.6205274039888518
+MEE2	zh-en	generaltest2022	news	refB	Lan-Bridge	0.6729434423056937
+MEE2	zh-en	generaltest2022	social	refB	Lan-Bridge	0.6408152808061378
+MEE2	zh-en	generaltest2022	all	refB	DLUT	
+MEE2	zh-en	generaltest2022	conversation	refB	DLUT	0.596808089529929
+MEE2	zh-en	generaltest2022	ecommerce	refB	DLUT	0.5908414194600655
+MEE2	zh-en	generaltest2022	news	refB	DLUT	0.6612085306171477
+MEE2	zh-en	generaltest2022	social	refB	DLUT	0.6190689845608348
+MEE2	zh-en	generaltest2022	all	refB	Online-B	
+MEE2	zh-en	generaltest2022	conversation	refB	Online-B	0.6228096135249663
+MEE2	zh-en	generaltest2022	ecommerce	refB	Online-B	0.6211797312228355
+MEE2	zh-en	generaltest2022	news	refB	Online-B	0.6701448731928097
+MEE2	zh-en	generaltest2022	social	refB	Online-B	0.6378148994711608
+MEE2	zh-en	generaltest2022	all	refB	bleurt_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refB	bleurt_bestmbr	0.6166895331698101
+MEE2	zh-en	generaltest2022	ecommerce	refB	bleurt_bestmbr	0.6180426598590555
+MEE2	zh-en	generaltest2022	news	refB	bleurt_bestmbr	0.6676641485092657
+MEE2	zh-en	generaltest2022	social	refB	bleurt_bestmbr	0.6358500052210899
+MEE2	zh-en	generaltest2022	all	refB	LanguageX	
+MEE2	zh-en	generaltest2022	conversation	refB	LanguageX	0.63416449858505
+MEE2	zh-en	generaltest2022	ecommerce	refB	LanguageX	0.6178534549884621
+MEE2	zh-en	generaltest2022	news	refB	LanguageX	0.680303895422237
+MEE2	zh-en	generaltest2022	social	refB	LanguageX	0.6414649447824746
+MEE2	zh-en	generaltest2022	all	refB	Online-Y	
+MEE2	zh-en	generaltest2022	conversation	refB	Online-Y	0.6057856302108402
+MEE2	zh-en	generaltest2022	ecommerce	refB	Online-Y	0.6073300977995493
+MEE2	zh-en	generaltest2022	news	refB	Online-Y	0.6673046381826818
+MEE2	zh-en	generaltest2022	social	refB	Online-Y	0.6235636823298205
+MEE2	zh-en	generaltest2022	all	refB	Online-W	
+MEE2	zh-en	generaltest2022	conversation	refB	Online-W	0.6338970820538194
+MEE2	zh-en	generaltest2022	ecommerce	refB	Online-W	0.5950473938835411
+MEE2	zh-en	generaltest2022	news	refB	Online-W	0.6592940374658077
+MEE2	zh-en	generaltest2022	social	refB	Online-W	0.62315780323419
+MEE2	zh-en	generaltest2022	all	refB	AISP-SJTU	
+MEE2	zh-en	generaltest2022	conversation	refB	AISP-SJTU	0.6187140326962233
+MEE2	zh-en	generaltest2022	ecommerce	refB	AISP-SJTU	0.6118156253510844
+MEE2	zh-en	generaltest2022	news	refB	AISP-SJTU	0.6784145551031505
+MEE2	zh-en	generaltest2022	social	refB	AISP-SJTU	0.6441220171071387
+MEE2	zh-en	generaltest2022	all	refB	bleu_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refB	bleu_bestmbr	0.6229979405441634
+MEE2	zh-en	generaltest2022	ecommerce	refB	bleu_bestmbr	0.6282768751933676
+MEE2	zh-en	generaltest2022	news	refB	bleu_bestmbr	0.6742110066476571
+MEE2	zh-en	generaltest2022	social	refB	bleu_bestmbr	0.6433557954193968
+MEE2	zh-en	generaltest2022	all	refB	2B-B4	
+MEE2	zh-en	generaltest2022	conversation	refB	2B-B4	0.5904964930337971
+MEE2	zh-en	generaltest2022	ecommerce	refB	2B-B4	0.5598340052975795
+MEE2	zh-en	generaltest2022	news	refB	2B-B4	0.6436902416235837
+MEE2	zh-en	generaltest2022	social	refB	2B-B4	0.6063605309644872
+MEE2	zh-en	generaltest2022	all	refB	chrf_bestmbr	
+MEE2	zh-en	generaltest2022	conversation	refB	chrf_bestmbr	0.6251453544987141
+MEE2	zh-en	generaltest2022	ecommerce	refB	chrf_bestmbr	0.6226830711263229
+MEE2	zh-en	generaltest2022	news	refB	chrf_bestmbr	0.6683559363866582
+MEE2	zh-en	generaltest2022	social	refB	chrf_bestmbr	0.6379084710690236
+MEE2	zh-en	generaltest2022	all	refB	HuaweiTSC	
+MEE2	zh-en	generaltest2022	conversation	refB	HuaweiTSC	0.6549211624413148
+MEE2	zh-en	generaltest2022	ecommerce	refB	HuaweiTSC	0.6056638163375881
+MEE2	zh-en	generaltest2022	news	refB	HuaweiTSC	0.6701034645922316
+MEE2	zh-en	generaltest2022	social	refB	HuaweiTSC	0.6346407361508958
+MEE2	zh-en	generaltest2022	all	refB	refA	
+MEE2	zh-en	generaltest2022	conversation	refB	refA	0.7591480066781968
+MEE2	zh-en	generaltest2022	ecommerce	refB	refA	0.7787813982109988
+MEE2	zh-en	generaltest2022	news	refB	refA	0.7779399436137611
+MEE2	zh-en	generaltest2022	social	refB	refA	0.6574762379674021
+MEE2	en-de	generaltest2022	all	refA	chrf_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refA	chrf_bestmbr	0.7717387974698243
+MEE2	en-de	generaltest2022	ecommerce	refA	chrf_bestmbr	0.7558413728569507
+MEE2	en-de	generaltest2022	news	refA	chrf_bestmbr	0.7455892520357049
+MEE2	en-de	generaltest2022	social	refA	chrf_bestmbr	0.727759456481182
+MEE2	en-de	generaltest2022	all	refA	Online-G	
+MEE2	en-de	generaltest2022	conversation	refA	Online-G	0.7596252438580599
+MEE2	en-de	generaltest2022	ecommerce	refA	Online-G	0.7567730036880975
+MEE2	en-de	generaltest2022	news	refA	Online-G	0.7411846725447623
+MEE2	en-de	generaltest2022	social	refA	Online-G	0.719660458399918
+MEE2	en-de	generaltest2022	all	refA	Online-B	
+MEE2	en-de	generaltest2022	conversation	refA	Online-B	0.7712070286388715
+MEE2	en-de	generaltest2022	ecommerce	refA	Online-B	0.7636028918395469
+MEE2	en-de	generaltest2022	news	refA	Online-B	0.7494798059810694
+MEE2	en-de	generaltest2022	social	refA	Online-B	0.7296726638621193
+MEE2	en-de	generaltest2022	all	refA	comet_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refA	comet_bestmbr	0.7647897678850264
+MEE2	en-de	generaltest2022	ecommerce	refA	comet_bestmbr	0.7413130880663673
+MEE2	en-de	generaltest2022	news	refA	comet_bestmbr	0.7333817641924459
+MEE2	en-de	generaltest2022	social	refA	comet_bestmbr	0.7084636045349686
+MEE2	en-de	generaltest2022	all	refA	Lan-Bridge	
+MEE2	en-de	generaltest2022	conversation	refA	Lan-Bridge	0.769026815064164
+MEE2	en-de	generaltest2022	ecommerce	refA	Lan-Bridge	0.7623902003315618
+MEE2	en-de	generaltest2022	news	refA	Lan-Bridge	0.7370716368049272
+MEE2	en-de	generaltest2022	social	refA	Lan-Bridge	0.7242782257404132
+MEE2	en-de	generaltest2022	all	refA	bleu_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refA	bleu_bestmbr	0.7749239190361308
+MEE2	en-de	generaltest2022	ecommerce	refA	bleu_bestmbr	0.7621196377351298
+MEE2	en-de	generaltest2022	news	refA	bleu_bestmbr	0.7510725481909697
+MEE2	en-de	generaltest2022	social	refA	bleu_bestmbr	0.733320167089033
+MEE2	en-de	generaltest2022	all	refA	OpenNMT	
+MEE2	en-de	generaltest2022	conversation	refA	OpenNMT	0.7542523175448809
+MEE2	en-de	generaltest2022	ecommerce	refA	OpenNMT	0.7374530195934111
+MEE2	en-de	generaltest2022	news	refA	OpenNMT	0.7403906558676954
+MEE2	en-de	generaltest2022	social	refA	OpenNMT	0.7042125650669758
+MEE2	en-de	generaltest2022	all	refA	Online-Y	
+MEE2	en-de	generaltest2022	conversation	refA	Online-Y	0.7486164159867885
+MEE2	en-de	generaltest2022	ecommerce	refA	Online-Y	0.7560724942645168
+MEE2	en-de	generaltest2022	news	refA	Online-Y	0.7444925306988003
+MEE2	en-de	generaltest2022	social	refA	Online-Y	0.7292254085479599
+MEE2	en-de	generaltest2022	all	refA	Online-A	
+MEE2	en-de	generaltest2022	conversation	refA	Online-A	0.7634673298194933
+MEE2	en-de	generaltest2022	ecommerce	refA	Online-A	0.7550970607394336
+MEE2	en-de	generaltest2022	news	refA	Online-A	0.7405431616157173
+MEE2	en-de	generaltest2022	social	refA	Online-A	0.7197145983552498
+MEE2	en-de	generaltest2022	all	refA	Online-W	
+MEE2	en-de	generaltest2022	conversation	refA	Online-W	0.762947928413969
+MEE2	en-de	generaltest2022	ecommerce	refA	Online-W	0.7510103131847455
+MEE2	en-de	generaltest2022	news	refA	Online-W	0.7412612448494977
+MEE2	en-de	generaltest2022	social	refA	Online-W	0.7359885010097855
+MEE2	en-de	generaltest2022	all	refA	JDExploreAcademy	
+MEE2	en-de	generaltest2022	conversation	refA	JDExploreAcademy	0.7681880911749324
+MEE2	en-de	generaltest2022	ecommerce	refA	JDExploreAcademy	0.7524832879699215
+MEE2	en-de	generaltest2022	news	refA	JDExploreAcademy	0.7531575637643588
+MEE2	en-de	generaltest2022	social	refA	JDExploreAcademy	0.7293575876101557
+MEE2	en-de	generaltest2022	all	refA	QUARTZ_TuneReranking	
+MEE2	en-de	generaltest2022	conversation	refA	QUARTZ_TuneReranking	0.7315078499215474
+MEE2	en-de	generaltest2022	ecommerce	refA	QUARTZ_TuneReranking	0.7335841152014122
+MEE2	en-de	generaltest2022	news	refA	QUARTZ_TuneReranking	0.7314693185241422
+MEE2	en-de	generaltest2022	social	refA	QUARTZ_TuneReranking	0.7096822486181678
+MEE2	en-de	generaltest2022	all	refA	PROMT	
+MEE2	en-de	generaltest2022	conversation	refA	PROMT	0.7552605614449192
+MEE2	en-de	generaltest2022	ecommerce	refA	PROMT	0.7495028807993249
+MEE2	en-de	generaltest2022	news	refA	PROMT	0.7440538428354703
+MEE2	en-de	generaltest2022	social	refA	PROMT	0.7200278833943772
+MEE2	en-de	generaltest2022	all	refA	bleurt_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refA	bleurt_bestmbr	0.7607749338593244
+MEE2	en-de	generaltest2022	ecommerce	refA	bleurt_bestmbr	0.7317073435732059
+MEE2	en-de	generaltest2022	news	refA	bleurt_bestmbr	0.7269060153229514
+MEE2	en-de	generaltest2022	social	refA	bleurt_bestmbr	0.700346077599258
+MEE2	en-de	generaltest2022	all	refA	2B-B4	
+MEE2	en-de	generaltest2022	conversation	refA	2B-B4	0.7029819376745668
+MEE2	en-de	generaltest2022	ecommerce	refA	2B-B4	0.7252115061266732
+MEE2	en-de	generaltest2022	news	refA	2B-B4	0.7208658994297035
+MEE2	en-de	generaltest2022	social	refA	2B-B4	0.6917450782735322
+MEE2	en-de	generaltest2022	all	refA	refB	
+MEE2	en-de	generaltest2022	conversation	refA	refB	0.771238848163147
+MEE2	en-de	generaltest2022	ecommerce	refA	refB	0.7368127810517419
+MEE2	en-de	generaltest2022	news	refA	refB	0.7185454939705263
+MEE2	en-de	generaltest2022	social	refA	refB	0.7089205803492843
+MEE2	en-de	generaltest2022	all	refB	chrf_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refB	chrf_bestmbr	0.762209235816513
+MEE2	en-de	generaltest2022	ecommerce	refB	chrf_bestmbr	0.759471342749723
+MEE2	en-de	generaltest2022	news	refB	chrf_bestmbr	0.7430081922453112
+MEE2	en-de	generaltest2022	social	refB	chrf_bestmbr	0.7307793930264557
+MEE2	en-de	generaltest2022	all	refB	Online-G	
+MEE2	en-de	generaltest2022	conversation	refB	Online-G	0.7511085322067862
+MEE2	en-de	generaltest2022	ecommerce	refB	Online-G	0.7630677134266896
+MEE2	en-de	generaltest2022	news	refB	Online-G	0.7377142906688605
+MEE2	en-de	generaltest2022	social	refB	Online-G	0.7263470152966058
+MEE2	en-de	generaltest2022	all	refB	Online-B	
+MEE2	en-de	generaltest2022	conversation	refB	Online-B	0.7640977483290576
+MEE2	en-de	generaltest2022	ecommerce	refB	Online-B	0.7647253672294636
+MEE2	en-de	generaltest2022	news	refB	Online-B	0.7461870064924637
+MEE2	en-de	generaltest2022	social	refB	Online-B	0.7350000968945141
+MEE2	en-de	generaltest2022	all	refB	comet_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refB	comet_bestmbr	0.7481676335451143
+MEE2	en-de	generaltest2022	ecommerce	refB	comet_bestmbr	0.7413230471798874
+MEE2	en-de	generaltest2022	news	refB	comet_bestmbr	0.7286670098114812
+MEE2	en-de	generaltest2022	social	refB	comet_bestmbr	0.7117900421019433
+MEE2	en-de	generaltest2022	all	refB	Lan-Bridge	
+MEE2	en-de	generaltest2022	conversation	refB	Lan-Bridge	0.7635294861471216
+MEE2	en-de	generaltest2022	ecommerce	refB	Lan-Bridge	0.7638600793680458
+MEE2	en-de	generaltest2022	news	refB	Lan-Bridge	0.7343478688335383
+MEE2	en-de	generaltest2022	social	refB	Lan-Bridge	0.7322628684624606
+MEE2	en-de	generaltest2022	all	refB	bleu_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refB	bleu_bestmbr	0.766118610511559
+MEE2	en-de	generaltest2022	ecommerce	refB	bleu_bestmbr	0.7661239480373812
+MEE2	en-de	generaltest2022	news	refB	bleu_bestmbr	0.7449670544508438
+MEE2	en-de	generaltest2022	social	refB	bleu_bestmbr	0.7367976352423764
+MEE2	en-de	generaltest2022	all	refB	OpenNMT	
+MEE2	en-de	generaltest2022	conversation	refB	OpenNMT	0.7446921288419316
+MEE2	en-de	generaltest2022	ecommerce	refB	OpenNMT	0.7369550903299401
+MEE2	en-de	generaltest2022	news	refB	OpenNMT	0.7365701630437252
+MEE2	en-de	generaltest2022	social	refB	OpenNMT	0.7117791999582734
+MEE2	en-de	generaltest2022	all	refB	Online-Y	
+MEE2	en-de	generaltest2022	conversation	refB	Online-Y	0.7431410772279784
+MEE2	en-de	generaltest2022	ecommerce	refB	Online-Y	0.7593701652457568
+MEE2	en-de	generaltest2022	news	refB	Online-Y	0.7406178634920138
+MEE2	en-de	generaltest2022	social	refB	Online-Y	0.7351392903521774
+MEE2	en-de	generaltest2022	all	refB	Online-A	
+MEE2	en-de	generaltest2022	conversation	refB	Online-A	0.7549332257848548
+MEE2	en-de	generaltest2022	ecommerce	refB	Online-A	0.7599214044831569
+MEE2	en-de	generaltest2022	news	refB	Online-A	0.7395989931863924
+MEE2	en-de	generaltest2022	social	refB	Online-A	0.7302056929574745
+MEE2	en-de	generaltest2022	all	refB	Online-W	
+MEE2	en-de	generaltest2022	conversation	refB	Online-W	0.7557945574669837
+MEE2	en-de	generaltest2022	ecommerce	refB	Online-W	0.7527955699137415
+MEE2	en-de	generaltest2022	news	refB	Online-W	0.7289361239487313
+MEE2	en-de	generaltest2022	social	refB	Online-W	0.728595334678469
+MEE2	en-de	generaltest2022	all	refB	JDExploreAcademy	
+MEE2	en-de	generaltest2022	conversation	refB	JDExploreAcademy	0.7606015662551106
+MEE2	en-de	generaltest2022	ecommerce	refB	JDExploreAcademy	0.7556491988806792
+MEE2	en-de	generaltest2022	news	refB	JDExploreAcademy	0.7464281322010227
+MEE2	en-de	generaltest2022	social	refB	JDExploreAcademy	0.7326835003889318
+MEE2	en-de	generaltest2022	all	refB	QUARTZ_TuneReranking	
+MEE2	en-de	generaltest2022	conversation	refB	QUARTZ_TuneReranking	0.7204366656491302
+MEE2	en-de	generaltest2022	ecommerce	refB	QUARTZ_TuneReranking	0.7365337421464387
+MEE2	en-de	generaltest2022	news	refB	QUARTZ_TuneReranking	0.722650377349796
+MEE2	en-de	generaltest2022	social	refB	QUARTZ_TuneReranking	0.7072117042275303
+MEE2	en-de	generaltest2022	all	refB	PROMT	
+MEE2	en-de	generaltest2022	conversation	refB	PROMT	0.7371982575359485
+MEE2	en-de	generaltest2022	ecommerce	refB	PROMT	0.750642076991157
+MEE2	en-de	generaltest2022	news	refB	PROMT	0.7389508479674212
+MEE2	en-de	generaltest2022	social	refB	PROMT	0.7282641626249731
+MEE2	en-de	generaltest2022	all	refB	bleurt_bestmbr	
+MEE2	en-de	generaltest2022	conversation	refB	bleurt_bestmbr	0.7481715989859252
+MEE2	en-de	generaltest2022	ecommerce	refB	bleurt_bestmbr	0.7336625836751419
+MEE2	en-de	generaltest2022	news	refB	bleurt_bestmbr	0.7193620864648557
+MEE2	en-de	generaltest2022	social	refB	bleurt_bestmbr	0.7028096374510318
+MEE2	en-de	generaltest2022	all	refB	2B-B4	
+MEE2	en-de	generaltest2022	conversation	refB	2B-B4	0.6966093723185334
+MEE2	en-de	generaltest2022	ecommerce	refB	2B-B4	0.7260397965597545
+MEE2	en-de	generaltest2022	news	refB	2B-B4	0.7217001775478997
+MEE2	en-de	generaltest2022	social	refB	2B-B4	0.6990856009543462
+MEE2	en-de	generaltest2022	all	refB	refA	
+MEE2	en-de	generaltest2022	conversation	refB	refA	0.7710330729678573
+MEE2	en-de	generaltest2022	ecommerce	refB	refA	0.7365555317190515
+MEE2	en-de	generaltest2022	news	refB	refA	0.7228104176565042
+MEE2	en-de	generaltest2022	social	refB	refA	0.7114117473321613
+MEE2	en-ru	generaltest2022	all	refA	Online-B	
+MEE2	en-ru	generaltest2022	conversation	refA	Online-B	0.7592339348110592
+MEE2	en-ru	generaltest2022	ecommerce	refA	Online-B	0.7444529552751548
+MEE2	en-ru	generaltest2022	news	refA	Online-B	0.6990113017767489
+MEE2	en-ru	generaltest2022	social	refA	Online-B	0.7192551375202707
+MEE2	en-ru	generaltest2022	all	refA	JDExploreAcademy	
+MEE2	en-ru	generaltest2022	conversation	refA	JDExploreAcademy	0.7161243379847274
+MEE2	en-ru	generaltest2022	ecommerce	refA	JDExploreAcademy	0.7386876282578396
+MEE2	en-ru	generaltest2022	news	refA	JDExploreAcademy	0.6872557002888481
+MEE2	en-ru	generaltest2022	social	refA	JDExploreAcademy	0.7173607078814515
+MEE2	en-ru	generaltest2022	all	refA	bleu_bestmbr	
+MEE2	en-ru	generaltest2022	conversation	refA	bleu_bestmbr	0.756055650168122
+MEE2	en-ru	generaltest2022	ecommerce	refA	bleu_bestmbr	0.7481922560516256
+MEE2	en-ru	generaltest2022	news	refA	bleu_bestmbr	0.7008504869131498
+MEE2	en-ru	generaltest2022	social	refA	bleu_bestmbr	0.7239051666191714
+MEE2	en-ru	generaltest2022	all	refA	comet_bestmbr	
+MEE2	en-ru	generaltest2022	conversation	refA	comet_bestmbr	0.7353069733836507
+MEE2	en-ru	generaltest2022	ecommerce	refA	comet_bestmbr	0.7157191102925472
+MEE2	en-ru	generaltest2022	news	refA	comet_bestmbr	0.6858039671234247
+MEE2	en-ru	generaltest2022	social	refA	comet_bestmbr	0.6942400096401653
+MEE2	en-ru	generaltest2022	all	refA	QUARTZ_TuneReranking	
+MEE2	en-ru	generaltest2022	conversation	refA	QUARTZ_TuneReranking	0.6198627890419499
+MEE2	en-ru	generaltest2022	ecommerce	refA	QUARTZ_TuneReranking	0.6762876454321309
+MEE2	en-ru	generaltest2022	news	refA	QUARTZ_TuneReranking	0.659321254651236
+MEE2	en-ru	generaltest2022	social	refA	QUARTZ_TuneReranking	0.655313440569417
+MEE2	en-ru	generaltest2022	all	refA	Online-Y	
+MEE2	en-ru	generaltest2022	conversation	refA	Online-Y	0.7539351682156488
+MEE2	en-ru	generaltest2022	ecommerce	refA	Online-Y	0.7430181170854001
+MEE2	en-ru	generaltest2022	news	refA	Online-Y	0.6885373507392815
+MEE2	en-ru	generaltest2022	social	refA	Online-Y	0.7114006969633568
+MEE2	en-ru	generaltest2022	all	refA	PROMT	
+MEE2	en-ru	generaltest2022	conversation	refA	PROMT	0.7159550041563597
+MEE2	en-ru	generaltest2022	ecommerce	refA	PROMT	0.7180724763710495
+MEE2	en-ru	generaltest2022	news	refA	PROMT	0.6825045204956296
+MEE2	en-ru	generaltest2022	social	refA	PROMT	0.6945058200371688
+MEE2	en-ru	generaltest2022	all	refA	SRPOL	
+MEE2	en-ru	generaltest2022	conversation	refA	SRPOL	0.7108213784440489
+MEE2	en-ru	generaltest2022	ecommerce	refA	SRPOL	0.7235676927292449
+MEE2	en-ru	generaltest2022	news	refA	SRPOL	0.6854905104468174
+MEE2	en-ru	generaltest2022	social	refA	SRPOL	0.6949852615736627
+MEE2	en-ru	generaltest2022	all	refA	eTranslation	
+MEE2	en-ru	generaltest2022	conversation	refA	eTranslation	0.6976204387195409
+MEE2	en-ru	generaltest2022	ecommerce	refA	eTranslation	0.7252977884131814
+MEE2	en-ru	generaltest2022	news	refA	eTranslation	0.6839087410065329
+MEE2	en-ru	generaltest2022	social	refA	eTranslation	0.6899925091408067
+MEE2	en-ru	generaltest2022	all	refA	Online-W	
+MEE2	en-ru	generaltest2022	conversation	refA	Online-W	0.7293634691796411
+MEE2	en-ru	generaltest2022	ecommerce	refA	Online-W	0.7346569179916687
+MEE2	en-ru	generaltest2022	news	refA	Online-W	0.6859490393989466
+MEE2	en-ru	generaltest2022	social	refA	Online-W	0.7176605776398
+MEE2	en-ru	generaltest2022	all	refA	Online-A	
+MEE2	en-ru	generaltest2022	conversation	refA	Online-A	0.722664792874572
+MEE2	en-ru	generaltest2022	ecommerce	refA	Online-A	0.7354976322646559
+MEE2	en-ru	generaltest2022	news	refA	Online-A	0.6918973685285771
+MEE2	en-ru	generaltest2022	social	refA	Online-A	0.7055876539770387
+MEE2	en-ru	generaltest2022	all	refA	chrf_bestmbr	
+MEE2	en-ru	generaltest2022	conversation	refA	chrf_bestmbr	0.7484443502547437
+MEE2	en-ru	generaltest2022	ecommerce	refA	chrf_bestmbr	0.7413288842369197
+MEE2	en-ru	generaltest2022	news	refA	chrf_bestmbr	0.6964770871337203
+MEE2	en-ru	generaltest2022	social	refA	chrf_bestmbr	0.7182997248232152
+MEE2	en-ru	generaltest2022	all	refA	2B-B4	
+MEE2	en-ru	generaltest2022	conversation	refA	2B-B4	0.6633711056839671
+MEE2	en-ru	generaltest2022	ecommerce	refA	2B-B4	0.7110208213006988
+MEE2	en-ru	generaltest2022	news	refA	2B-B4	0.6727984131670751
+MEE2	en-ru	generaltest2022	social	refA	2B-B4	0.6704832233085448
+MEE2	en-ru	generaltest2022	all	refA	HuaweiTSC	
+MEE2	en-ru	generaltest2022	conversation	refA	HuaweiTSC	0.6949953214443743
+MEE2	en-ru	generaltest2022	ecommerce	refA	HuaweiTSC	0.7252570158090422
+MEE2	en-ru	generaltest2022	news	refA	HuaweiTSC	0.6851160165221447
+MEE2	en-ru	generaltest2022	social	refA	HuaweiTSC	0.6905438945562719
+MEE2	en-ru	generaltest2022	all	refA	Lan-Bridge	
+MEE2	en-ru	generaltest2022	conversation	refA	Lan-Bridge	0.7358842804122382
+MEE2	en-ru	generaltest2022	ecommerce	refA	Lan-Bridge	0.7423599509705814
+MEE2	en-ru	generaltest2022	news	refA	Lan-Bridge	0.6823174241077643
+MEE2	en-ru	generaltest2022	social	refA	Lan-Bridge	0.7151259364290419
+MEE2	en-ru	generaltest2022	all	refA	Online-G	
+MEE2	en-ru	generaltest2022	conversation	refA	Online-G	0.7186129673317094
+MEE2	en-ru	generaltest2022	ecommerce	refA	Online-G	0.7379089495648254
+MEE2	en-ru	generaltest2022	news	refA	Online-G	0.6881126296896849
+MEE2	en-ru	generaltest2022	social	refA	Online-G	0.7187163116580406
