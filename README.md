@@ -34,8 +34,3 @@ python prepare_scores.py --baseline chrF
 
 The output files will be stored in `scores/`.
 
-For QE-as-a-metric we provide a similar script to run COMET-QE baseline (first verify if you have unbabel-comet installed!):
-
-```bash
-python prepare_scores.py --baseline COMET-QE
-```
