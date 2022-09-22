@@ -29,7 +29,9 @@ samples = {
 and you can run the script with BLEU, chrF with the following command (first verify if you have sacrebleu installed!):
 
 ```bash
-python prepare_scores.py --baseline chrF
+python prepare_scores.py --baseline MEE2
+
+python prepare_scores.py --baseline MEE4
 ```
 
 The output files will be stored in `scores/`.
