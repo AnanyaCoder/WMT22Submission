@@ -142,9 +142,11 @@ def getModuleScore(mt,ref,lngpair,mee_version):
         MEE2 = ( ( ((2*mee)+modifiedBscore)/3) + Lb_sen_score)/2
         MEE4 = ( ( ((2*mee)+modifiedBscore)/3) + 3*Lb_sen_score)/4
         
-        if(mee_version == MEE2):
-            score.append(MEE2)
-        else
+        if(mee_version == 'MEE'):
+            score.append(mee)
+        elif(mee_version == 'MEE2'):
+            score.append(MEE2)  
+        else:
             score.append(MEE4)  
     return score
 

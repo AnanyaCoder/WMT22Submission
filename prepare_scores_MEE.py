@@ -6,7 +6,7 @@ from sacrebleu import corpus_bleu, corpus_chrf, sentence_bleu, sentence_chrf
 import numpy as np
 from tqdm import tqdm
 from typing import Dict, List
-import ModulesScores_MEE as am
+import ModuleScores_MEE as am
 
 SRC_PATH = "metrics_inputs/txt/generaltest2022/sources/generaltest2022.{}.src.{}"
 REFA_PATH = "metrics_inputs/txt/generaltest2022/references/generaltest2022.{}.ref.refA.{}"
@@ -109,6 +109,8 @@ def segment_level_scoring(samples: Dict[str, List[str]], metric: str,lp):
         
     elif metric == "random":
         scores = np.random.random(size = len(samples["ref"]))
+    elif metric == "MEE":
+        scores = am.getModuleScore(samples["mt"], samples["ref"],lp,metric)
     elif metric == "MEE2":
         scores = am.getModuleScore(samples["mt"], samples["ref"],lp,metric)
     elif metric == "MEE4":
@@ -386,9 +388,9 @@ if __name__ == "__main__":
         
    
     segment_data = pd.concat(segment_data, ignore_index=True)
-    segment_data.to_csv("scores/{}.seg.score".format(args.baseline), index=False, header=False, sep="\t")
+    segment_data.to_csv("scores/{}.seg.score_ende".format(args.baseline), index=False, header=False, sep="\t")
     
    
     system_data = pd.concat(system_data, ignore_index=True)
-    system_data.to_csv("scores/{}.sys.score".format(args.baseline), index=False, header=False, sep="\t")
+    system_data.to_csv("scores/{}.sys.score_ende".format(args.baseline), index=False, header=False, sep="\t")
    
